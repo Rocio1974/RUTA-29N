@@ -1,0 +1,6 @@
+{
+  "name": "RUTA 29N - Centro Digital de Estrategia Electoral y Parlamentaria",
+  "description": "Centro digital de preparación, estrategia y gestión para candidaturas al Congreso de los Diputados y Senado. Observatorio de los 204 municipios de Toledo, inteligencia jurídica LOREG/JEC, simuladores de debate y traductor de políticas nacionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
